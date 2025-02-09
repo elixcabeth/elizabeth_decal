@@ -22,6 +22,6 @@
 # 8) What has been the most frustrating error or bug you've encountered in this class so far? How did you troubleshoot and resolve it?
 #       We haven't done anything hard enough to warrant frustrating errors or bugs.
 # 9) How does cloning a repository differ from pulling from a repository?
-#       Cloning a repository copies a remote repository to the local repository and will include all files. Pulling will download the latest content from the remote repository, sort of like installing an update.
+#       Cloning a repository copies a remote repository to the local repository and will include all of the files. Pulling will download the latest content from the remote repository, sort of like installing an update.
 # 10) Tell me a fun fact!
 #       If you travel at a steady 65 mph, it would take you 4.8x10^17 years to reach the edge of the observable universe. (If you wanted a fun fact about me: I'm a theatre kid.)
