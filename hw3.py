@@ -29,7 +29,6 @@ print(fuel_efficiency(distance, fuel))
 
 # 5. Secret Code - Write a function that takes an integer as input and moves its last digit to the front of the number.
 def decodeNumbers(n):
-    # n % 10 will give last digit and n//10 will give first 4 digits
     ones = n % 10 
     n = n // 10 
     length = len(str(n))
