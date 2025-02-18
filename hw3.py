@@ -1,4 +1,4 @@
-# 1. Oski Stole Your Power - Find a different way that can compute x raised to the power of y
+# 1. Oski Stole Your Power - Find a different way (by writing a function) that can compute x raised to the power of y
 def computePower(x, y):
     n = 1
     for i in range (y):
