@@ -12,7 +12,7 @@ print(squares)
 def first_fifteen_elements(squares):
     return squares[:15]
 print(first_fifteen_elements(squares))
-# SyntaxError: invalid syntax in line 10. Since I only wrote return [:15], I did not specify that I was trying to splice the squares list.
+# SyntaxError: invalid syntax in line 10. Since I only wrote return [:15], I didn't specify that I was trying to splice the squares list.
 
 # 2.4
 def every_fifth_element(squares):
